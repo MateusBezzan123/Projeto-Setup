@@ -1,0 +1,27 @@
+{
+  "name": "projeto-setup",
+  "version": "1.0.0",
+  "description": "A Node.js Restful API Tutorial Project (Build a simple shop API)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MateusBezzan123/Projeto-Setup.git"
+  },
+  "keywords": [
+    "node",
+    "restful",
+    "api"
+  ],
+  "author": "Mateus Bezzan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MateusBezzan123/Projeto-Setup/issues"
+  },
+  "homepage": "https://github.com/MateusBezzan123/Projeto-Setup#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
